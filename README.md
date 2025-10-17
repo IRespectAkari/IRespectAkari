@@ -2,6 +2,8 @@
 
 ### Interest
 
+⇒No.1 Aikatsu!
+
 - Java, Swing
 - JavaScript
 - HTML, CSS
