@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![trophy](https://github-profile-trophy.vercel.app/?username=IRespectAkari)]
+![IRespectAkari's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRespectAkari&count_private=true&show_icons=true&theme=dracula)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IRespectAkari&hide=css,html&count_private=true&theme=dracula&langs_count=8&layout=compact)
+
 <!--
 **IRespectAkari/IRespectAkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
